@@ -47,10 +47,7 @@ The framework follows these key steps:
 ```
 README.md (this file)
 data/ (folder containing the dengue dataset)
-notebooks/ (folder containing Jupyter notebooks or Python scripts for analysis)
-models/ (folder to save trained models, if applicable)
-results/ (folder to store evaluation results, figures, etc.)
-requirements.txt (file listing the required Python libraries)
+DenguePredictor.ipynb (for the whole step-by-step code)
 ```
 
 **Installation**
